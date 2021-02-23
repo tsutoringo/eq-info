@@ -1,7 +1,7 @@
 module.exports = eew => ({
 	"title": `${eew.is.training ? "~~":""}${eew.regionName} (${eew.is.final ? "最終報":`第${eew.report.num}報`}) ${eew.is.training ? "~~ 訓練":""}`,
 	"description": "地震が発生しました。",
-	"url": "https://discordapp.com",
+	"url": "http://www.kmoni.bosai.go.jp",
 	"color": eew.maxScale.color,
 	"footer": {
 		"icon_url": "https://cdn.discordapp.com/embed/avatars/0.png",
