@@ -17,4 +17,8 @@ kyoshinMonita.on("newReport", ({eew, imageURLs}) => {
 	});
 });
 
+kyoshinMonita.on("ready", () => {
+	console.log("[kyoshin-monita] Start watching 強震モニタ");
+})
+
 module.exports = kyoshinMonita;
