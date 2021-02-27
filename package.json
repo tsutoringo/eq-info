@@ -7,7 +7,8 @@
     "canvas": "^2.6.1",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
-    "kyoshin-monita": "github:tsutoringo/kyoshin-monita"
+    "kyoshin-monita": "github:tsutoringo/kyoshin-monita",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
