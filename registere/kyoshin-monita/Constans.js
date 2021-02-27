@@ -1,0 +1,1 @@
+module.exports.SOURCE_URL = "http://www.kmoni.bosai.go.jp";
